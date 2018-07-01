@@ -1,0 +1,170 @@
+content:
+  - docs
+  - blog
+  - showcase
+defaults:
+  repos:
+    core: 'https://github.com/freesewing/core'
+    data: 'https://github.com/freesewing/data'
+    site: 'https://github.com/freesewing/site'
+    tile: 'https://github.com/freesewing/tile'
+  sa:
+    custom: 1
+    imperial: 0.625
+    metric: 1
+  scale:
+    imperial: 25.4
+    metric: 10
+  step:
+    imperial: 0.125
+    metric: 0.1
+  themes:
+    - Basic
+    - Paperless
+i18n:
+  files:
+    - app
+    - i18n
+    - measurements
+    - options
+    - optiongroups
+    - patterns
+  locales:
+    disabled:
+      - fr
+      - 'no'
+      - sv
+      - pt
+    enabled:
+      - en
+      - de
+      - es
+      - nl
+  origin: en
+  stats:
+    de:
+      app: 420
+      blog: 0
+      docs: 0
+      i18n: 8
+      measurements: 27
+      optiongroups: 12
+      options: 0
+      patterns: 37
+      showcase: 0
+    en:
+      app: 420
+      blog: 31
+      docs: 365
+      i18n: 8
+      measurements: 27
+      optiongroups: 12
+      options: 348
+      patterns: 37
+      showcase: 51
+    es:
+      app: 420
+      blog: 2
+      docs: 1
+      i18n: 8
+      measurements: 26
+      optiongroups: 12
+      options: 300
+      patterns: 37
+      showcase: 1
+    fr:
+      app: 395
+      blog: 0
+      docs: 0
+      i18n: 8
+      measurements: 26
+      optiongroups: 11
+      options: 0
+      patterns: 4
+      showcase: 0
+    nl:
+      app: 419
+      blog: 3
+      docs: 7
+      i18n: 8
+      measurements: 27
+      optiongroups: 12
+      options: 301
+      patterns: 37
+      showcase: 1
+    'no':
+      app: 0
+      blog: 0
+      docs: 0
+      i18n: 0
+      measurements: 25
+      optiongroups: 0
+      options: 0
+      patterns: 0
+      showcase: 0
+    pt:
+      app: 359
+      blog: 0
+      docs: 0
+      i18n: 0
+      measurements: 0
+      optiongroups: 0
+      options: 0
+      patterns: 0
+      showcase: 0
+    sv:
+      app: 397
+      blog: 0
+      docs: 0
+      i18n: 0
+      measurements: 26
+      optiongroups: 0
+      options: 0
+      patterns: 0
+      showcase: 0
+    xx:
+      app: 0
+      blog: 0
+      docs: 0
+      i18n: 0
+      measurements: 0
+      optiongroups: 0
+      options: 0
+      patterns: 0
+      showcase: 0
+  target:
+    app: 420
+    blog: 31
+    docs: 365
+    i18n: 8
+    measurements: 27
+    optiongroups: 12
+    options: 348
+    patterns: 37
+    showcase: 51
+  template: xx
+  translators:
+    de:
+      - manufaktur.edelweiss
+      - sew.malina
+      - marckiesel
+    en:
+      - joost
+    es:
+      - AlfaLyr
+      - ldepeuter
+    fr:
+      - Fantastik-Maman
+      - MrsMonkey
+      - github|Chantalbijoux
+      - github|dingcycle
+      - joebidido
+    nl:
+      - AnnekeCaramin
+      - joost
+    'no':
+      - Quidditch
+    pt:
+      - ericamattos
+    sv:
+      - Polanka

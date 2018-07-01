@@ -1,0 +1,71 @@
+ahoyPatron: Yoho patrocinador!
+allTheBest: 'Saludos, '
+authorCommentedOnYourProfilePage: '{author} ha comentado en tu perfil.'
+authorPostedAReply: '{author} ha publicado una respuesta a tu comentario: '
+betterToAsk: Siempre es mejor preguntar que asumir.
+canWeRemainFriends: ¿Podemos seguir siendo amigos?
+chatOnGitter: Chatea en Gitter
+confirmEmailAddress: Confirma dirección de E-mail
+consentGiven: Gracias por dar tu consentimiento
+consentReminder: 'Ésto es sólo un recordatorio. Puedes revocar tu consentimiento en cualquier momento <a href=''https://freesewing.org/account/consent''>en la configuración de tu cuenta</a>. TODO'
+credits: Hecho por Joost De Cock & colaboradores con el apoyo financiero de nuestros patrocinadores ❤️
+deliveryFromFreesewing: Delivery from freesewing TODO
+downloadArchive: Download archive TODO
+exportReadyNowDownload: We have created an archive of all your data. You can download it by clicking the button below. TODO
+founderAndMaintainer: Fundador y mantenedor del proyecto freesewing
+freesewing: Freesewing DONE
+github: GitHub DONE
+goodbye: Adiós
+happyNewUser: Estamos tan contentos de que hayas decidido a la comunidad freesewing.
+helloUsername: 'Hola {username}'
+hereIsYourData: Here is your data TODO
+iRespectYourDecisionToLeave: 'Respeto tu decisión de irte, y no te molestaré más.'
+ifThatDoesntWorkCopyPaste: 'Si eso no funciona, puedes copiar y pegar el enlace en el navegador.'
+instagram: Instagram DONE
+itSeemsYouForgotYourPassword: Parece que has olvidado tu contraseña.
+modelConsentGiven: Nos has dado permiso para procesar los datos de tu modelo
+newComment: Nuevo comentario
+noWorriesClickLinkRegainAccess: 'No te preocupes, simplemente sigue el enlace de abajo para volver a tener acceso a tu cuenta:'
+noteCurrentAddressInCc: 'Notea que tu dirección actual ({oldAddress}) está en CC.'
+onceYouConfirmNewAddress: 'Una vez que confirmes {newAddress} como tu nueva dirección, nunca enviaremos otro E-mail a {oldAddress}.'
+orReplyOnline: O puedes responder online
+pleaseConfirmChangedEmail: 'Por favor, confirma tu nueva dirección de E-mail address ({newAddress}) siguiendo el siguiente enlace:'
+pleaseConfirmEmail: 'Por favor, confirma tu dirección de E-mail'
+profileConsentGiven: Nos has dado permiso para procesar los datos de tu perfil.
+psWhyLeave: 'PD: Si quieres compartir la razón por la que te vas, puedes contestar a este mensaje.'
+questionsJustReply: "Si tienes alguna pregunta, simplemente contesta a este mensaje. Siempre dispuestos a ayudar. \U0001F642"
+regainAccessToYourAccount: "\U0001F511 Recuperar el acceso a tu cuenta de freesewing"
+replyWillBePostedAsComment: 'Si contestas a este E-mail, será publicado como una respuesta al comentario.'
+resetPassword: Reestablecer contraseña
+senderName: Joost de Freesewing
+signature: 'Con amor,'
+slogan: Freesewing es una plataforma open source para patrones de costura a medida
+soWhatHappensNow: ¿Y qué pasa ahora?
+thankYou: Gracias.
+thankYouForAgreeingToBeAPatron: Gracias por convertirte en Patrocinador de Freesewing.
+thankYouForGivingFreesewingAChance: Gracias por darle a Freesewing una oportunidad.
+thankYouForYourSupport: Gracias por tu apoyo
+thankYouNowConfirmLink: 'Gracias por crear una cuenta en freesewing.org. Antes de empezar tienes que confirmar tu dirección de E-mail. Simplemente haz clic en el siguiente enlace:'
+twitter: Twitter DONE
+txt-patron2-1: 'En mi nombre y el de toda la comunidad de freesewing, me gustaría expresarte mi gratitud y aprecio por tu generosidad.'
+txt-patron2-2: 'Antes de nada, vamos a seguir haciendo lo que hacemos. Creo que es justa asumir que, como Patrocinador, ésto es lo que esperas de nosotros. Si eso te hace sentir que no supones ninguna diferencia, déjame asegurarte que sí lo haces.'
+txt-patron2-3: 'Tu compromiso como patrocinador es una gran motivación para nosotros. Nos dice que lo que hacemos merece la pena, y nos ayuda a asegurar un futuro para freesewing.org, nuestro código, nuestro patrones y nuestra comunidad.'
+txt-patron2-4: 'Es esta, de alguna manera indefinida, parte de tu patrocinio la que importa más. Convirtiéndote en Patrocinador de Freesewing ha sido un acto do amabilidad y generosidad por tu parte por la que te ofrecemos toda nuestro gratitud. Es algo que no podremos pagarte.'
+txt-patron2-ps: "PD: Si estás en Twitter, Instagram or GitHub, por favor, házmelo saber para que podamos seguirte desde la cuenta oficial de freesewing. Es un privilegio de Patrocinador \U0001F642"
+txt-patron4-1: Muchas gracias por unirte a los patrocinadores de freesewing como Primer Oficial. ¡Son buenísimas noticias!
+txt-patron4-2: 'Enviaré tu regalo por correo pronto, pero antes de hacerlo me pondré en contacto para confirmar la dirección de envío.'
+txt-patron4-3: 'Mientras tanto, ya te he añadido a la lista de patrocinadores en freesewing.org.'
+txt-patron8-1: 'TMuchas gracias por unirte a los patrocinadores de freesewing, ¡y como Capitán nada menos! Son buenísimas noticias.'
+website: Sitio web
+welcomeAboard: "\U0001F6A2 Bienvenido a bordo \U0001F389"
+whyCommentReply: Has recibido este E-mail porque alguien ha contestado a alguno de tus comentarios en freesewing.org.
+whyConsent: Has recibido este E-mail porque has dado tu consentimiento para procesar tus datos personales en freesewing.org.
+whyEmailChange: Has recibido este this E-mail porque has cambiado la dirección de E-mail asociada a tu cuenta en freesewing.org
+whyExport: You received this E-mail because you requested to export your data on freesewing.org TODO
+whyGoodbye: Has recibido este E-mail como despedida tras eliminar tu cuenta en freesewing.org.
+whyPatron: Has recibido este E-mail porque te has convertido en Patrocinador de freesewing.org.
+whyProfileComment: Has recibido este E-mail porque alguien ha comentado en tu perfil en freesewing.org.
+whyRecover: Has recibido este E-mail porque hemos recibido una solicitud de reestablecer contraseña para la cuenta de freesewing.org asociada a esta dirección de E-mail.
+whySignup: Has recibido este E-mail porque acabas de crear una cuenta en freesewing.org
+wowYouAreAwesome: 'Guau, eres increíble ❤️'
+yourOriginalComment: 'Tu comentario original:'
